@@ -1,2 +1,2 @@
 a = readline()
-print("Hola $a!")
+print("Hola $a")
