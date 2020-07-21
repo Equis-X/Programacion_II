@@ -13,5 +13,5 @@ El orden de los archivos por su fecha de asignacion es el siguiente:
 9) Capturav2.cs
 10) Capturav3.cs
 11) Capturav4.cs
-12) Paquete de Capturav5 (Programacion Orientada a Objetos)
-13) Decoder, C# encoder, PythonEn.py, Ccoder.c, input.csv
+12) Paquete de Capturav5(rar)(Programacion Orientada a Objetos)
+13) Decoder(rar), C# encoder(rar), PythonEn.py, Ccoder.c, input.csv
